@@ -1,0 +1,12 @@
+{
+  "cmd": "\"/opt/conda/bin/salmon\" \"index\" \"-k\" \"31\" \"-i\" \"simpleaf_index/index\" \"-t\" \"simpleaf_index/ref/splici_fl85.fa\" \"--threads\" \"8\"",
+  "index_type": "salmon",
+  "salmon_index_parameters": {
+    "k": 31,
+    "keep_duplicates": false,
+    "ref": "simpleaf_index/ref/splici_fl85.fa",
+    "sparse": false,
+    "threads": 8
+  },
+  "t2g_file": "t2g_3col.tsv"
+}
