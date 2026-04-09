@@ -10,5 +10,9 @@
         "rust-lang.rust-analyzer"
       ]
     }
+  },
+  "postCreateCommand": "cargo build --workspace --bins",
+  "containerEnv": {
+    "ALEVIN_FRY_HOME": "/workspaces/simpleaf/target/debug"
   }
 }
