@@ -4,7 +4,7 @@ lldb ./target/debug/simpleaf -- quant  \
 		   -t 8     \
 		   -1 selected_R1_reads.fastq \
 		   -2 selected_R2_reads.fastq     \
-		   -i index     \
+		   -i tests/data/index     \
 		   -u -r cr-like     \
-		   -m index/t2g_3col.tsv     \
+		   -m tests/data/index/t2g_3col.tsv     \
 		   -o simpleaf_quant

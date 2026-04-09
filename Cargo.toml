@@ -1,6 +1,10 @@
 [workspace]
 members = [
-    "alevin-fry"
+  "alevin-fry"
+]
+
+exclude = [
+  "piscem"
 ]
 
 [package]

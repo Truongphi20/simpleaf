@@ -11,7 +11,7 @@
       ]
     }
   },
-  "postCreateCommand": "cargo build --workspace --bins",
+  "postCreateCommand": ".devcontainer/setup.sh",
   "containerEnv": {
     "ALEVIN_FRY_HOME": "/workspaces/simpleaf/target/debug"
   }
