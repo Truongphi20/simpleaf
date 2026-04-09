@@ -1,0 +1,19 @@
+{
+  "basic info": {
+    "vertex count": 1994819
+  },
+  "contigs info": {
+    "_comment": "lengths are in bases",
+    "avg. maximal unitig length": 160,
+    "longest maximal unitig length": 18988,
+    "maximal unitig count": 15290,
+    "shortest maximal unitig length": 31,
+    "sum maximal unitig length": 2453519,
+    "vertex count in the maximal unitigs": 1994819
+  },
+  "parameters info": {
+    "input": "simpleaf_index/ref/roers_ref.fa",
+    "k": 31,
+    "output prefix": "simpleaf_index/index/piscem_idx_cfish"
+  }
+}

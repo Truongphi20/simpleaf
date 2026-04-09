@@ -1,3 +1,12 @@
+[workspace]
+members = [
+  "alevin-fry"
+]
+
+exclude = [
+  "piscem"
+]
+
 [package]
 name = "simpleaf"
 version = "0.23.2"

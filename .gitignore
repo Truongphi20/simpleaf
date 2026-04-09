@@ -30,3 +30,6 @@ test_e2e.sh
 
 # macOS Finder metadata
 **/.DS_Store
+
+# Testing
+simpleaf_quant
