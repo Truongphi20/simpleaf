@@ -1,0 +1,3 @@
+[submodule "alevin-fry"]
+	path = alevin-fry
+	url = https://github.com/Truongphi20/alevin-fry.git
