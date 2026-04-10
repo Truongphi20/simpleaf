@@ -3,7 +3,7 @@
 	url = https://github.com/Truongphi20/alevin-fry.git
 [submodule "piscem"]
 	path = piscem
-	url = https://github.com/COMBINE-lab/piscem.git
+	url = https://github.com/Truongphi20/piscem.git
 [submodule "piscem-rs"]
 	path = piscem-rs
 	url = https://github.com/COMBINE-lab/piscem-rs.git

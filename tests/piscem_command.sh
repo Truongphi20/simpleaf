@@ -1,6 +1,6 @@
 #!/bin/bash
 
-rust-lldb ./piscem/target/debug/piscem map-sc --index tests/data/index/piscem_idx \
+rust-lldb ./piscem/target/debug/piscem -- map-sc --index tests/data/index/piscem_idx \
                                               --threads 1 \
                                               -o simpleaf_quant/af_map \
                                               --max-ec-card 4096 \
