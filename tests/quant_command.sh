@@ -1,7 +1,7 @@
 #!/bin/bash
-lldb ./target/debug/simpleaf -- quant  \
+rust-lldb ./target/debug/simpleaf -- quant  \
 		   -c 10xv3 \
-		   -t 8     \
+		   -t 1     \
 		   -1 tests/data/selected_R1_reads.fastq \
 		   -2 tests/data/selected_R2_reads.fastq     \
 		   -i tests/data/index     \
